@@ -1,0 +1,31 @@
+{
+  "chart_title": "Weekly Performance Goals",
+  "weekly_targets": [
+    {
+      "label": "Item A",
+      "target": 20
+    },
+    {
+      "label": "Item B",
+      "target": 12
+    },
+    {
+      "label": "Item C",
+      "target": 8
+    }
+  ],
+  "sample_actuals": [
+    {
+      "label": "Item A",
+      "value": 18
+    },
+    {
+      "label": "Item B",
+      "value": 9
+    },
+    {
+      "label": "Item C",
+      "value": 10
+    }
+  ]
+}
